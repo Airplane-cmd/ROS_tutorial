@@ -1,0 +1,2 @@
+Invoking command in '/home/laptop/Documents/RosTutorial/src/cpp_srvcli/build/cpp_srvcli': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/laptop/Documents/RosTutorial/src/cpp_srvcli -DCMAKE_INSTALL_PREFIX=/home/laptop/Documents/RosTutorial/src/cpp_srvcli/install/cpp_srvcli
+Invoked command in '/home/laptop/Documents/RosTutorial/src/cpp_srvcli/build/cpp_srvcli' returned '1': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/laptop/Documents/RosTutorial/src/cpp_srvcli -DCMAKE_INSTALL_PREFIX=/home/laptop/Documents/RosTutorial/src/cpp_srvcli/install/cpp_srvcli
